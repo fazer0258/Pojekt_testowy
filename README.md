@@ -1,4 +1,4 @@
-# TEST XXXX XXX
+# TEST X2
 # Test Automation training from jaktestowac.pl
 
 ## Likks TEST
