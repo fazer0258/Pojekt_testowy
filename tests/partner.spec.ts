@@ -27,7 +27,7 @@ test.describe("Partner", () => {
       .getByRole("button")
       .click(); 
     await page.locator("a").filter({ hasText: "Bateria" }).click();
-    await page
+    await page 
       .locator("#facilityChooser")
       .getByRole("button", { name: "Wybierz..." })
       .click();
