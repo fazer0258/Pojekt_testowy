@@ -1,0 +1,10 @@
+/*
+Komendy
+npx playwright codegen [Adres]  -- nagrywanie testów przez komsole
+npx playwright codegen https://test-sp.srv.benefitsystems.pl/partner/login
+npx playwright test                [odpalanie Tstów]
+npx playwright test --headed     [odpalanie Tstów w Oknie]
+
+Asercja 
+a
+*/
